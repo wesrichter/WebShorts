@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap");
+
+body {
+  font-family: "Oswald", sans-serif;
+  font-weight: 300;
+  font-size: 1.625rem;
+  color: #232323;
+  margin: 0;
+}
+
+.container {
+  padding: 0 2rem;
+  max-width: 62.5rem;
+  margin: 0 auto;
+}
+
+article {
+  margin: 2em 0;
+  padding: 2em;
+  box-shadow: 0 0 2rem -0.5rem black;
+}
+
+.soup-img {
+  width: 250px;
+  float: left;
+  shape-outside: circle(50%);
+  margin-right: 5rem;
+}
+
+.plant-hero {
+  background: #e6ffe0;
+  padding: 5rem 0 0;
+}
